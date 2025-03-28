@@ -67,7 +67,7 @@ print(result)
   "status": "ok",
   "error": null,
   "data": {
-    "text": "A year after that (in 2021) I hired somebody to Help me write blog posts for\\nmy personal website.\\n\\nThe point is, I like reinvesting the money I make\\nback into my business.",
+    "text": "Ayear after that (in 2021) I hired somebody tpHfelp me write blog posts for\nmy personal website.\n\nThe point is, | like reinvesting the money | make\nback into my business.",
     "confidence": 88,
     "words": 28,
     "characters": 170,
@@ -99,7 +99,7 @@ All usage of the APIVerve website, API, and services is subject to the [APIVerve
 ## License
 Licensed under the The MIT License (MIT)
 
-Copyright (&copy;) 2024 APIVerve, and Evlar LLC
+Copyright (&copy;) 2025 APIVerve, and EvlarSoft LLC
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
